@@ -1,1 +1,1 @@
-
+print(r"line A \" LINE B")
