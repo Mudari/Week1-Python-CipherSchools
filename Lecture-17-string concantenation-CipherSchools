@@ -1,0 +1,5 @@
+first_name = "Harshit"
+last_name = "Vashistha"
+full_name = first_name + " " + last_name
+print(irst_name * 3)
+~
