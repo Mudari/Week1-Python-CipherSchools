@@ -1,1 +1,3 @@
-
+name = "harshit"
+print(name.replace("h","H",1))
+print(name)
